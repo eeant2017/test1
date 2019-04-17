@@ -4,6 +4,6 @@
 
 int main(void)
 {
-
-  return 0;
+	printf("This is 1st ver.\n");
+	return 0;
 }
